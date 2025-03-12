@@ -1,8 +1,8 @@
-# Basic C++ Template
+# Functions-Assignment C++ Template
 
-The original document here is a basic template for C++. As written, main.cpp will compile to print "Hello, World!".
+This is the start of your assignment in writing functions for C++. As written, main.cpp will fail to compile.
 
-Compile and run main.cpp using the following command:
+After fixing the code per the instructions on Canvas, compile and run main.cpp using the following command:
 ```
 g++ main.cpp -o ./main.o && ./main.o
 ```
