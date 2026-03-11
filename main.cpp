@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-const double DOLLARS_PER_GALLON = 12;     // cost of gas per gallon
+const double DOLLARS_PER_GALLON = 4.49;     // cost of gas per gallon
 const double MILES_PER_COMMUTE = 20.5;    // miles in one round-trip commute
 const double MILES_PER_GALLON = 36;       // car fuel efficiency
 
